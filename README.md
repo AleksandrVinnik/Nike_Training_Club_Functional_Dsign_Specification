@@ -25,28 +25,30 @@ Document Structure
 
 ## Document Structure
 
+```
 NTC_FDS/
-├── Version_History.md
+├── Version_History
 ├── Introduction/
-│   ├── Objective.md
-│   └── Scope.md
-├── Assumptions_Dependencies.md
-├── Requirements.md
+│   ├── Objective
+│   └── Scope
+├── Assumptions_Dependencies
+├── Requirements
 └── Epics/
     ├── Workouts_Tab/
-    │   ├── US-001_Personalized_Recommendations.md
-    │   ├── US-002_Workout_Categories.md
-    │   ├── US-003_Guidance_Section.md
-    │   ├── US-004_Trainer_Bios.md
-    │   └── US-005_Workout_Details.md
+    │   ├── US-001_Personalized_Recommendations
+    │   ├── US-002_Workout_Categories
+    │   ├── US-003_Guidance_Section
+    │   ├── US-004_Trainer_Bios
+    │   └── US-005_Workout_Details
     └── Activity_Tab/
-        ├── US-001_Workout_History.md
-        ├── US-002_Total_Activities.md
-        ├── US-003_Detailed_Activity.md
-        ├── US-004_Achievements.md
-        ├── US-005_Streaks.md
-        ├── US-006_Trophies.md
-        └── US-007_Weekly_Workouts.md
+        ├── US-001_Workout_History
+        ├── US-002_Total_Activities
+        ├── US-003_Detailed_Activity
+        ├── US-004_Achievements
+        ├── US-005_Streaks
+        ├── US-006_Trophies
+        └── US-007_Weekly_Workouts
+```
 
 
 Disclaimer: This document is a functional specification for the Nike Training Club app and is property of Nike, Inc. All rights reserved.
