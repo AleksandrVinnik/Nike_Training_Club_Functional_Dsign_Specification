@@ -50,6 +50,24 @@ Achievements system with trophies and milestones
 Streak tracking for consecutive workout weeks
 Performance analytics including total minutes and activities
 
+## 📄 Full Functional Design Specification (PDF)
+
+If you'd like to explore the complete design logic, flows, user stories, and business rules behind the **Nike Training Club (NTC)** mobile app — including both the *Workouts* and *Activity* tabs — you can access the detailed documentation here:
+
+👉 **[View Full Functional Design Specification (FDS) — Nike Training Club (NTC)](https://github.com/AleksandrVinnik/Nike_Training_Club_Functional_Dsign_Specification/blob/main/Functional%20Dsign%20Specification%20(FDS)%20Nike%20Training%20Club%20(NTC).pdf)**
+
+This document includes:
+
+- 🎯 **Project objectives and scope**  
+- 📲 **User stories and acceptance criteria**  
+- 🧭 **Navigation flows** for “Workouts” and “Activity” tabs  
+- 🔍 **Functional requirements and business logic**  
+- 🧑‍💼 **UI descriptions and trainer bios**  
+- 🏆 **Achievement tracking and activity summaries**  
+
+Whether you're a developer, product manager, or stakeholder, this spec gives you a full overview of the app's functional foundation.
+
+
 ```diff
 - DISCLAIMER: This document is a functional specification for the Nike Training Club 
 - app and is property of Nike, Inc. All rights reserved.
