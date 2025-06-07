@@ -8,6 +8,8 @@
 
 This repository contains the Functional Design Specification (FDS) for the Nike Training Club mobile application, focusing on the "Workouts" and "Activities" tabs. The document outlines UI elements, user stories, functionalities, and business logic for workout discovery, activity tracking, and achievement systems.
 
+[![Preview of Functional Design Specification](Images/Functional%20Dsign%20Specification%20(FDS)%20Nike%20Training%20Club%20(NTC).png)](Functional%20Dsign%20Specification%20(FDS)%20Nike%20Training%20Club%20(NTC).pdf)
+
 ## Document Structure
 ```
 NTC_FDS/
@@ -66,9 +68,6 @@ This document includes:
 - 🏆 Achievement tracking and activity summaries  
 
 Whether you're a developer, product manager, or stakeholder, this spec gives you a full overview of the app's functional foundation.
-
-[![Preview of Functional Design Specification](Images/Functional%20Dsign%20Specification%20(FDS)%20Nike%20Training%20Club%20(NTC).png)](Functional%20Dsign%20Specification%20(FDS)%20Nike%20Training%20Club%20(NTC).pdf)
-
 
 ```diff
 - DISCLAIMER: This document is a functional specification for the Nike Training Club 
